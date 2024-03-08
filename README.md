@@ -1,1 +1,2 @@
-# Text-Summarizer-
+# Text-Summarizer
+In today's information-rich environment, the ability to efficiently summarize large volumes of text is crucial for knowledge extraction and decision-making processes. The motivation behind this project is to develop an extractive text summarization system using feature-based models to automatically generate concise summaries from lengthy documents. By leveraging techniques such as TextRank, this project aims to address the challenge of information overload by providing users with succinct summaries of text content.
